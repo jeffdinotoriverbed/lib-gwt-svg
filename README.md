@@ -1,4 +1,6 @@
 # Introduction
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Flib-gwt-svg.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Flib-gwt-svg?ref=badge_shield)
+
 lib-gwt-svg is a library to add SVG graphics to GWT applications.
 
 It offers the following features:
@@ -145,3 +147,7 @@ lib-gwt-svg has been tested on the following SVG-enabled web browsers:
 </tbody>
 </table>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Flib-gwt-svg.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Flib-gwt-svg?ref=badge_large)
